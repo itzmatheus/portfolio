@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/matheusleite.github.io/static/css/main.15c645f3.chunk.css",
-    "main.js": "/matheusleite.github.io/static/js/main.0c7b9025.chunk.js",
-    "main.js.map": "/matheusleite.github.io/static/js/main.0c7b9025.chunk.js.map",
-    "runtime-main.js": "/matheusleite.github.io/static/js/runtime-main.7e3eb7bf.js",
-    "runtime-main.js.map": "/matheusleite.github.io/static/js/runtime-main.7e3eb7bf.js.map",
-    "static/js/2.2d5a26b4.chunk.js": "/matheusleite.github.io/static/js/2.2d5a26b4.chunk.js",
-    "static/js/2.2d5a26b4.chunk.js.map": "/matheusleite.github.io/static/js/2.2d5a26b4.chunk.js.map",
-    "index.html": "/matheusleite.github.io/index.html",
-    "precache-manifest.497c00e3463db05ec13e7d22459da25e.js": "/matheusleite.github.io/precache-manifest.497c00e3463db05ec13e7d22459da25e.js",
-    "service-worker.js": "/matheusleite.github.io/service-worker.js",
-    "static/css/main.15c645f3.chunk.css.map": "/matheusleite.github.io/static/css/main.15c645f3.chunk.css.map",
-    "static/media/index.css": "/matheusleite.github.io/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/contactMail.png": "/matheusleite.github.io/static/media/contactMail.d6d4086f.png",
-    "static/media/developerActivity.svg": "/matheusleite.github.io/static/media/developerActivity.59389695.svg",
-    "static/media/manOnTable.svg": "/matheusleite.github.io/static/media/manOnTable.52be3144.svg",
-    "static/media/skill.svg": "/matheusleite.github.io/static/media/skill.34409398.svg"
+    "main.css": "/portfolio/static/css/main.10048e3b.chunk.css",
+    "main.js": "/portfolio/static/js/main.85f6997c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.85f6997c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.da759b6d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.da759b6d.js.map",
+    "static/js/2.029faf7c.chunk.js": "/portfolio/static/js/2.029faf7c.chunk.js",
+    "static/js/2.029faf7c.chunk.js.map": "/portfolio/static/js/2.029faf7c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.65fb16ab40d9d5666ec44f0fcef91313.js": "/portfolio/precache-manifest.65fb16ab40d9d5666ec44f0fcef91313.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.10048e3b.chunk.css.map": "/portfolio/static/css/main.10048e3b.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.png": "/portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e3eb7bf.js",
-    "static/js/2.2d5a26b4.chunk.js",
-    "static/css/main.15c645f3.chunk.css",
-    "static/js/main.0c7b9025.chunk.js"
+    "static/js/runtime-main.da759b6d.js",
+    "static/js/2.029faf7c.chunk.js",
+    "static/css/main.10048e3b.chunk.css",
+    "static/js/main.85f6997c.chunk.js"
   ]
 }
